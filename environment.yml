@@ -1,4 +1,4 @@
-name: carnd-advdl-odlab
+name: tensorflow-gpu
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
@@ -13,4 +13,4 @@ dependencies:
     - imageio==2.1.2
     - pip:
         - moviepy
-        - tensorflow-gpu==1.4
+        - tensorflow-gpu==1.8
